@@ -22,7 +22,6 @@ RC_DFMO_analysis_2026/
 │   ├── CIBERSORTx_data_processing.ipynb      	# Reference data preparation for CIBERSORTx
 │   ├── convert_h5ad.R				# Converting rds to h5ad
 │   └── R_plotting.R				# Plotting scatter plot with select labels
-├── tables/                   			# see Zenodo for tables
 └── README.md
 ```
 
